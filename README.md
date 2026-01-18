@@ -14,3 +14,4 @@
 ## Preliminary results
 
 Manual verification of some of the cropped images.
+[Sample_Results.tiff](https://github.com/user-attachments/files/24692756/Sample_Results.tiff)
