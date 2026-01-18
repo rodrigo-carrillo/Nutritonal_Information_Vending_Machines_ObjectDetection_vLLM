@@ -13,4 +13,7 @@
 
 ## Preliminary results
 
-Manual verification of some of the cropped images.![object_001_conf_0_89](https://github.com/user-attachments/assets/686d1cb2-2382-4545-8a7c-3bc02317a0ad)
+Manual verification of some of the cropped images.
+![Sample_Results](https://github.com/user-attachments/assets/bb7ab34b-da72-4ccb-b6a8-5013acaa20d0)
+
+
