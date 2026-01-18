@@ -1,0 +1,302 @@
+[
+  {
+    "filename": "object_021_conf_0_74.jpg",
+    "name": "Jumbo Honey Bun",
+    "flavor": "Honey Bun",
+    "description": "A jumbo-sized Honey Bun.",
+    "size": "Not available",
+    "fats": "Not available",
+    "carbohydrates": "Not available",
+    "proteins": "Not available"
+  },
+  {
+    "filename": "object_023_conf_0_69.jpg",
+    "name": "M&M's",
+    "flavor": "Chocolate",
+    "description": "A bag of M&M's chocolate candies.",
+    "size": "Not available",
+    "fats": "Not available",
+    "carbohydrates": "Not available",
+    "proteins": "Not available"
+  },
+  {
+    "filename": "object_022_conf_0_72.jpg",
+    "name": "Lay's",
+    "flavor": "Sour and Onion",
+    "description": "Lay's Sour and Onion flavored potato chips.",
+    "size": "1 oz (28.3 g)",
+    "fats": "Not available",
+    "carbohydrates": "Not available",
+    "proteins": "Not available"
+  },
+  {
+    "filename": "object_009_conf_0_86.jpg",
+    "name": "Bugles",
+    "flavor": "Not available",
+    "description": "Orange-colored corn chips in a bag. The bag shows 'Woody Snacks'.",
+    "size": "7.6 OZ",
+    "fats": "Not available",
+    "carbohydrates": "Not available",
+    "proteins": "Not available"
+  },
+  {
+    "filename": "object_024_conf_0_68.jpg",
+    "name": "Snickers",
+    "flavor": "Peanut",
+    "description": "A chocolate bar with peanuts, caramel, and nougat.",
+    "size": "Not available",
+    "fats": "Not available",
+    "carbohydrates": "Not available",
+    "proteins": "Not available"
+  },
+  {
+    "filename": "object_026_conf_0_63.jpg",
+    "name": "Famous Chocolate Chip Cookies",
+    "flavor": "Chocolate Chip",
+    "description": "6-ounce package of chocolate chip cookies with an original recipe.",
+    "size": "3.0 OZ (56g)",
+    "fats": "12g",
+    "carbohydrates": "23g",
+    "proteins": "3g"
+  },
+  {
+    "filename": "object_010_conf_0_85.jpg",
+    "name": "Twix",
+    "flavor": "Caramel and Cookie",
+    "description": "Two Twix cookie bars.",
+    "size": "2 cookie bars",
+    "fats": "Not available",
+    "carbohydrates": "Not available",
+    "proteins": "Not available"
+  },
+  {
+    "filename": "object_017_conf_0_81.jpg",
+    "name": "Cheez-It",
+    "flavor": "Original",
+    "description": "Baked crackers. 100% real cheese.",
+    "size": "Not available",
+    "fats": "Not available",
+    "carbohydrates": "Not available",
+    "proteins": "Not available"
+  },
+  {
+    "filename": "object_014_conf_0_84.jpg",
+    "name": "Cheetos Puffs",
+    "flavor": "Cheese",
+    "description": "Orange cheese flavored puffed corn snacks. Contains 140 calories per pack.",
+    "size": "8 oz",
+    "fats": "11g",
+    "carbohydrates": "14g",
+    "proteins": "4g"
+  },
+  {
+    "filename": "object_028_conf_0_60.jpg",
+    "name": "HERSHEY'S",
+    "flavor": "Milk chocolate with whole almonds",
+    "description": "HERSHEY'S Milk chocolate with whole almonds.",
+    "size": "Not available",
+    "fats": "Not available",
+    "carbohydrates": "Not available",
+    "proteins": "Not available"
+  },
+  {
+    "filename": "object_002_conf_0_89.jpg",
+    "name": "Oreo",
+    "flavor": "Chocolate",
+    "description": "Oreo cookies, 6 count. Nutritional information is partially visible, indicating fat, carbohydrates, and protein content.",
+    "size": "6",
+    "fats": "11g",
+    "carbohydrates": "10g",
+    "proteins": "2g"
+  },
+  {
+    "filename": "object_007_conf_0_87.jpg",
+    "name": "Ritz",
+    "flavor": "Plain",
+    "description": "Ritz Toasted Cheese crackers. The package is next to a Peanut Butter package.",
+    "size": "220 cal",
+    "fats": "Not available",
+    "carbohydrates": "Not available",
+    "proteins": "Not available"
+  },
+  {
+    "filename": "object_001_conf_0_89.jpg",
+    "name": "Ruffles",
+    "flavor": "Cheddar & Sour Cream",
+    "description": "Ruffles Cheddar & Sour Cream potato chips.",
+    "size": "305g",
+    "fats": "Not available",
+    "carbohydrates": "Not available",
+    "proteins": "Not available"
+  },
+  {
+    "filename": "object_004_conf_0_87.jpg",
+    "name": "Nekot Sandwich Cookies",
+    "flavor": "Peanut Butter",
+    "description": "Large sandwich cookies with peanut butter flavor.",
+    "size": "40",
+    "fats": "Not available",
+    "carbohydrates": "Not available",
+    "proteins": "Not available"
+  },
+  {
+    "filename": "object_013_conf_0_85.jpg",
+    "name": "Reese's",
+    "flavor": "Peanut Butter Cup",
+    "description": "Reese's Peanut Butter Cup. It is a chocolate-covered peanut butter cup.",
+    "size": "2",
+    "fats": "Not available",
+    "carbohydrates": "Not available",
+    "proteins": "Not available"
+  },
+  {
+    "filename": "object_000_conf_0_90.jpg",
+    "name": "Lance Malt Sandwich Crackers Peanut Butter",
+    "flavor": "Peanut Butter",
+    "description": "Malt sandwich crackers with peanut butter flavor.",
+    "size": "Not available",
+    "fats": "Not available",
+    "carbohydrates": "Not available",
+    "proteins": "Not available"
+  },
+  {
+    "filename": "object_005_conf_0_87.jpg",
+    "name": "Planters Salted Peanuts",
+    "flavor": "Salted",
+    "description": "A bag of salted peanuts with a cartoon character on the front.",
+    "size": "2 oz (56g)",
+    "fats": "12g",
+    "carbohydrates": "6g",
+    "proteins": "7g"
+  },
+  {
+    "filename": "object_012_conf_0_85.jpg",
+    "name": "Starburst",
+    "flavor": "Original",
+    "description": "Starburst is a brand of fruit-flavored chews. The package is red with yellow and orange accents and features images of various fruit flavors.",
+    "size": "Not available",
+    "fats": "Not available",
+    "carbohydrates": "Not available",
+    "proteins": "Not available"
+  },
+  {
+    "filename": "object_015_conf_0_84.jpg",
+    "name": "Lay's",
+    "flavor": "Classic",
+    "description": "Yellow bag of Lay's Classic potato chips.",
+    "size": "1.97 oz",
+    "fats": "Not available",
+    "carbohydrates": "Not available",
+    "proteins": "Not available"
+  },
+  {
+    "filename": "object_029_conf_0_60.jpg",
+    "name": "Mrs. Freshley's",
+    "flavor": "Not available",
+    "description": "Donut package from Mrs. Freshley's.",
+    "size": "Not available",
+    "fats": "Not available",
+    "carbohydrates": "Not available",
+    "proteins": "Not available"
+  },
+  {
+    "filename": "object_011_conf_0_85.jpg",
+    "name": "Rowse Nekot Sandwich Cookies",
+    "flavor": "Lemon Crème",
+    "description": "Lemon Crème flavored sandwich cookies. Net Wt. 1.23 Lbs. 100g.",
+    "size": "240",
+    "fats": "Not available",
+    "carbohydrates": "Not available",
+    "proteins": "Not available"
+  },
+  {
+    "filename": "object_006_conf_0_87.jpg",
+    "name": "Lay's",
+    "flavor": "Salt & Vinegar",
+    "description": "Lay's Salt & Vinegar flavored potato chips.",
+    "size": "50g",
+    "fats": "Not available",
+    "carbohydrates": "Not available",
+    "proteins": "Not available"
+  },
+  {
+    "filename": "object_016_conf_0_83.jpg",
+    "name": "Taki's",
+    "flavor": "Spicy",
+    "description": "Spicy Taki's corn chips with chorizo, lime, and jalapeño.",
+    "size": "3000",
+    "fats": "Not available",
+    "carbohydrates": "Not available",
+    "proteins": "Not available"
+  },
+  {
+    "filename": "object_003_conf_0_88.jpg",
+    "name": "Gauduco",
+    "flavor": "Vanilla",
+    "description": "Vanilla Wafer",
+    "size": "1.4 oz (40 g)",
+    "fats": "Not available",
+    "carbohydrates": "Not available",
+    "proteins": "Not available"
+  },
+  {
+    "filename": "object_025_conf_0_68.jpg",
+    "name": "3 Musketeers",
+    "flavor": "Chocolate",
+    "description": "Chocolate bar with a layered sponge cake and chocolate coating.",
+    "size": "Not available",
+    "fats": "Not available",
+    "carbohydrates": "Not available",
+    "proteins": "Not available"
+  },
+  {
+    "filename": "object_008_conf_0_86.jpg",
+    "name": "Natinal Cinnamon Almond Butter",
+    "flavor": "Cinnamon Almond",
+    "description": "14g of Whole Grain Cinnamon Almond Butter",
+    "size": "14g",
+    "fats": "Not available",
+    "carbohydrates": "Not available",
+    "proteins": "Not available"
+  },
+  {
+    "filename": "object_018_conf_0_80.jpg",
+    "name": "Golden Flake",
+    "flavor": "Buffalo Ranch",
+    "description": "Thin & Crispy Potato Chips with Buffalo Ranch flavor.",
+    "size": "4.4 OZ (126g)",
+    "fats": "12g",
+    "carbohydrates": "15g",
+    "proteins": "3g"
+  },
+  {
+    "filename": "object_027_conf_0_61.jpg",
+    "name": "Skittles",
+    "flavor": "Wild Berry",
+    "description": "A bag of Skittles Wild Berry flavored candies.",
+    "size": "Not available",
+    "fats": "Not available",
+    "carbohydrates": "Not available",
+    "proteins": "Not available"
+  },
+  {
+    "filename": "object_019_conf_0_77.jpg",
+    "name": "White Cheddar",
+    "flavor": "White Cheddar",
+    "description": "White Cheddar flavored popcorn. Gluten free. Flavored. ",
+    "size": "5/8 OZ (12g)",
+    "fats": "Not available",
+    "carbohydrates": "Not available",
+    "proteins": "Not available"
+  },
+  {
+    "filename": "object_020_conf_0_76.jpg",
+    "name": "Nabisco Stubb's",
+    "flavor": "Bar-B-Q",
+    "description": "Sticky Sweet Bar-B-Q Cheese Crisps",
+    "size": "14oz",
+    "fats": "12g",
+    "carbohydrates": "190",
+    "proteins": "10g"
+  }
+]

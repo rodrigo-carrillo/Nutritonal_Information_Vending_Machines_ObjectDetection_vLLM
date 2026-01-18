@@ -1,0 +1,13 @@
+≈# File
+*.log
+*.temp
+config.json
+.DS_Store
+*.tiff
+
+# Folders
+__pycache__/
+HoloSelecta-FinalDataset/
+HoloSelecta-FinalDataset_YOLO/
+05_References/
+_old/
